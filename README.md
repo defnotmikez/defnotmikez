@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=defnotmikez&theme=dark" alt="defnotmikez" /></p>
 
- ![Snake animation](https://github.com/defnotmikez/defnotmikez/blob/da29dba8d789e98142c7a7c8423665ffbe0c9b53/.github/workflows/main.yml)
+ ![Snake animation](https://github.com/defnotmikez/defnotmikez/blob/output/github-contribution-grid-snake.svg)
