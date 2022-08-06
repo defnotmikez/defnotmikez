@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-<h4> You can download my creative CV <a href="https://github.com/defnotmikez/defnotmikez/blob/ccf01efe3cb14c2b3347d5e65b88fa5c1c5f33f1/CV_Michael_Creative.pdf"> here </a> or my formal CV <a href="https://github.com/defnotmikez/defnotmikez/blob/ccf01efe3cb14c2b3347d5e65b88fa5c1c5f33f1/CV_Michael_Formal.pdf">here</a></h4>
+<h4> You can download my creative CV <a href="https://github.com/defnotmikez/defnotmikez/blob/27019b0e94adda0719110880f51fd0f8667e4201/CV_Michael_Creative.pdf"> here </a> or my formal CV <a href="https://github.com/defnotmikez/defnotmikez/blob/27019b0e94adda0719110880f51fd0f8667e4201/CV_Michael_Formal.pdf">here</a></h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=defnotmikez&label=Profile%20views&color=0e75b6&style=flat" alt="defnotmikez" /> </p>
 
 
